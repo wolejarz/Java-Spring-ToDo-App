@@ -1,4 +1,4 @@
-package io.github.wolejarz.todoapp;
+package io.github.wolejarz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

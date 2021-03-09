@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.github.wolejarz</groupId>
-	<artifactId>ToDoApp</artifactId>
+	<artifactId>todo-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ToDoApp</name>
-	<description>Testing Project for Spring Boot</description>
+	<name>todo-app</name>
+	<description>Test ToDo Java App</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
